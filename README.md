@@ -1,58 +1,40 @@
-# Adidas_Sales_Analysis
+# Adidas_Sales_Analysis Project
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Dashboard Overview](#dashboard-overview)
+- [Key Performance Indicators](#key-performance-indicators)
+- [Methodology](#methodology)
+- [Files](#files)
+- [Tools and Techniques](#tools-and-techniques)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [Contact Information](#contact-information)
+- 
 This project provides an in-depth analysis of Adidas' sales performance across various dimensions, including geography, product, and retailer. It highlights key trends, actionable insights, and recommendations to enhance sales and profitability.
 # Adidas Sales Analysis
 
-## Overview
-This project provides an in-depth analysis of Adidas' sales performance across various dimensions, including geography, product, and retailer. It highlights key trends, actionable insights, and recommendations to enhance sales and profitability.
-
-## Key Features
-- **KPIs**: Total Sales, Operating Profit, Sales Volume, Price per Unit, Operating Margin.
-- **Visuals**:
-  - Area Chart: Total Sales by Month.
-  - Filled Map: Total Sales by State.
-  - Donut Chart: Total Sales by Region.
-  - Bar Charts: Sales by Product and Retailer.
-- **Interactivity**: Dynamic filtering with Region and Invoice Date slicers.
-
-## Tools Used
-- **Power BI**: For data visualization and dashboard creation.
-- **Dataset**: Cleaned and prepared for analysis.
-
-## Insights
-1. **Seasonality**: Sales peaks in July and August; February underperforms.
-2. **Regional Dynamics**: West leads in sales; Northeast underperforms.
-3. **Product Performance**: Men’s Street Footwear and Women’s Apparel dominate.
-4. **Retailers**: West Gear and Foot Locker are top performers.
-
-## Recommendations
-- Strengthen marketing during peak months.
-- Focus on underperforming regions and products.
-- Enhance collaborations with key retailers.
-- Regularly update and leverage the interactive dashboard.
-
-## Dashboard Preview
-![Adidas Sales Dashboard](adidas_sales_analysis_dashboard.png)
-
-# Adidas Sales Analysis Documentation
-
 ## Project Overview
-
-The Adidas Sales Analysis project aims to provide a comprehensive understanding of Adidas' sales dynamics and performance drivers. The analysis helps in identifying geographical areas with high and low sales potential, insights into product performance, pricing strategies, and actionable recommendations to optimize sales and profitability.
+This project provides a comprehensive understanding of Adidas' sales dynamics and performance drivers. The analysis helps in identifying geographical areas with high and low sales potential, insights into product performance, pricing strategies, and actionable recommendations to optimize sales and profitability.
 
 ## Dashboard Overview
+The dashboard visualizes key sales performance metrics using Power BI. It enables users to explore trends, compare sales across different dimensions, and interactively analyze Adidas' business performance. The dashboard includes multiple charts that present sales data effectively;
 
-The dashboard visualizes key sales performance metrics using Power BI. It enables users to explore trends, compare sales across different dimensions, and interactively analyze Adidas' business performance. The dashboard includes multiple charts that present sales data effectively.
+ - **Area Chart:** Total sales by month.
+  - **Filled Map:** Total sales by state.
+  - **Donut Chart:** Total sales by region.
+  - **Bar Charts:** Total sales by product and retailer.
+![Adidas Sales Dashboard](adidas_sales_analysis_dashboard.png)
 
-## Key Performance Indicators (KPIs)
-
-- **Total Sales:** $900M – Provides an overview of Adidas' sales performance.
-- **Operating Profit:** $332M – Indicates the total profit generated across different dimensions.
-- **Total Units Sold:** 2M – Highlights the overall product demand.
-- **Price per Unit:** $45.2 – Helps in assessing Adidas' pricing strategy.
-- **Operating Margin:** 42.30% – Evaluates the profitability of sales transactions.
+## Key Performance Indicators
+The following KPIs were calculated:
+1. **Total Sales:** $900M – Provided an overview of Adidas' sales performance.
+2. **Operating Profit:** $332M – Indicated the total profit generated across different dimensions.
+3. **Total Units Sold:** 2M – Highlighted the overall product demand.
+4. **Price per Unit:** $45.2 – Helped in assessing Adidas' pricing strategy.
+5. **Operating Margin:** 42.30% – Evaluated the profitability of sales transactions.
 
 ## Methodology
-
 1. **Data Cleaning:**
    - Checked for blanks and duplicate values in all columns (none found).
    - Ensured the dataset was ready for analysis.
@@ -65,22 +47,15 @@ The dashboard visualizes key sales performance metrics using Power BI. It enable
    - Added slicers for filtering by region and invoice date.
    - Edited interactions to ensure charts dynamically update based on selections.
 
-## Files
-
-- **`adidas_sales_analysis_dashboard.png`** – The final dashboard visualization.
-- **`dataset.xlsx`** – Raw sales data used for analysis.
-- **`README.md`** – Documentation for the project.
+   ## Files
+- **Dataset**: You can check out the Excel workbook containing the cleaned data and the interactive dashboard here: [Excel Workbook](https://docs.google.com/spreadsheets/d/1tkPNKJf4eyypxVRlH9f3Ofo35FSiqrx2/edit?usp=drive_link&ouid=118110181468829394233&rtpof=true&sd=true).
+- **Documentation**: The in-depth analysis report can be downloaded here: [Data_Cleaning_and_Analysis_Report](Dominion_Pizza_Data_Cleaning_and_Analysis_Report.pdf).
 
 ## Tools and Techniques
 
 - **Power BI** – Used for data visualization and dashboard creation.
 - **Data Cleaning Techniques** – Ensured dataset accuracy and completeness.
 - **Interactive Filtering** – Enabled better insights through data exploration.
-- **Charts & Graphs:**
-  - **Area Chart:** Total sales by month.
-  - **Filled Map:** Total sales by state.
-  - **Donut Chart:** Total sales by region.
-  - **Bar Charts:** Total sales by product and retailer.
 
 ## Key Insights
 
@@ -97,4 +72,8 @@ The dashboard visualizes key sales performance metrics using Power BI. It enable
 4. **Retailer Partnership Strategy:** Strengthen partnerships with top-performing retailers like West Gear and Foot Locker.
 5. **Profit Margin Enhancement:** Reassess pricing strategies to maintain a high operating margin while ensuring affordability for customers.
 
+## Contact Information
+Feel free to reach out with feedback or questions:
+- **Email**: [akinolaiyin@gmail.com]
 
+---
