@@ -48,7 +48,7 @@ The following KPIs were calculated:
    - Edited interactions to ensure charts dynamically update based on selections.
 
    ## Files
-- **Dataset**: You can check out the Power BI workbook containing the cleaned data and the interactive dashboard here: [Power BI Workbook](adidas sales analysis.pbix).
+- **Dataset**: You can check out the Power BI workbook containing the cleaned data and the interactive dashboard here: [Power BI Workbook](adidas_sales_analysis.pbix).
 
 ## Tools and Techniques
 
