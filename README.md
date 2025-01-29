@@ -48,8 +48,7 @@ The following KPIs were calculated:
    - Edited interactions to ensure charts dynamically update based on selections.
 
    ## Files
-- **Dataset**: You can check out the Excel workbook containing the cleaned data and the interactive dashboard here: [Excel Workbook](https://docs.google.com/spreadsheets/d/1tkPNKJf4eyypxVRlH9f3Ofo35FSiqrx2/edit?usp=drive_link&ouid=118110181468829394233&rtpof=true&sd=true).
-- **Documentation**: The in-depth analysis report can be downloaded here: [Data_Cleaning_and_Analysis_Report](Dominion_Pizza_Data_Cleaning_and_Analysis_Report.pdf).
+- **Dataset**: You can check out the Power BI workbook containing the cleaned data and the interactive dashboard here: [Power BI Workbook](adidas sales analysis.pbix).
 
 ## Tools and Techniques
 
