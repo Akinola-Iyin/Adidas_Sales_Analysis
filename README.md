@@ -10,7 +10,7 @@
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
 - [Contact Information](#contact-information)
-- 
+
 This project provides an in-depth analysis of Adidas' sales performance across various dimensions, including geography, product, and retailer. It highlights key trends, actionable insights, and recommendations to enhance sales and profitability.
 # Adidas Sales Analysis
 
